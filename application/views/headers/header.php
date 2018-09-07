@@ -37,11 +37,12 @@
   <!-- Modal Structure -->
   <div id="modal1" class="modal">
     <div class="modal-content">
-      <h4>ACCESO AL SISTEMA</h4>
-      <div class="row">
+      <h4><strong>Inicio de Sesion</strong></h4>
+      <div class="row" align="center">
        <div class="input-field col s6">
           <input id="last_name" type="text" class="validate">
           <label for="last_name">Usuario</label>
+
         </div>
        </div> 
 
@@ -53,8 +54,9 @@
           <label for="password">Password</label>
         </div>
       </div>
+      <button class=" btn btn-success">Iniciar</button>
     </div>
     <div class="modal-footer">
-      <a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
+      <a href="#!" class="modal-close waves-effect waves-green btn-flat">Cancelar</a>
     </div>
   </div>
