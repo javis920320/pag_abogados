@@ -41,6 +41,7 @@
   
   
   <script src="<?php echo  base_url();?>assets/js/init.js"></script>
+  <script src="<?php echo  base_url();?>assets/js/functions.js"></script>
 
   </body>
 </html>
